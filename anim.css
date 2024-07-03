@@ -1,12 +1,30 @@
 .bk{
     height: 600px;
-    text-align: center;
+    text-align:left;
     background-image:url('imges/bg.jpg');
     background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-position:45% 45%;
+   
     background-size: cover;
-    border-radius: 20px;
 font-style: italic;
 font-size: 50px;
 
     
+}
+.jh{
+    font-size: 20px;
+}
+ul{
+    font-size: 15px;
+}
+.nn{
+    font-size: 45px;
+}
+ul{
+    color: rgb(163, 53, 121);
+}
+.dr{
+    background-image: url('https://images6.alphacoders.com/132/thumb-1920-1323582.png');
+    background-repeat: no-repeat;
 }

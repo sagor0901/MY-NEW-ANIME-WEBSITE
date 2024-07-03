@@ -1,0 +1,12 @@
+.bk{
+    height: 600px;
+    text-align: center;
+    background-image:url('imges/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+font-style: italic;
+font-size: 50px;
+
+    
+}
